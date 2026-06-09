@@ -44,30 +44,6 @@ Tracks sales performance over time to identify seasonal patterns and growth tren
 
 ---
 
-## 📷 Dashboard Preview
-
-### Main Dashboard
-
-![Dashboard Overview](retail-performance.twbx)
-
-### Revenue vs Profit
-
-![Revenue vs Profit](revenue-vs-profit.png)
-
-### Profit Leakage
-
-![Profit Leakage](profit-leakage.png)
-
-### Customer Concentration
-
-![Customer Concentration](customer-concentration.png)
-
-### Monthly Sales Trend
-
-![Monthly Sales Trend](monthly-sales.png)
-
----
-
 ## 🛠 Tools Used
 
 * Tableau Desktop
